@@ -6,4 +6,3 @@
 - Learn all about Machine Learning and Deep Learning
 - Learn all about Generative AI
 - Learn English
-
