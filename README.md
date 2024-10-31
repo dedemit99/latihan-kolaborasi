@@ -5,3 +5,4 @@
 - Learn all about Git & GitHub 
 - Learn Analysis Data Using Python to Dashboard Creation
 - Learn all about Machine Learning and Deep Learning
+- Learn all about Generative AI
